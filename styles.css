@@ -1,0 +1,30 @@
+/* Styles pour la barre de navigation en ligne */
+.en-ligne {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    background-color: #333;
+    color: #fff;
+}
+
+/* Styles pour les liens de navigation */
+.lien-navigation {
+    text-decoration: none;
+    color: #fff;
+    margin-left: 20px;
+    font-size: 18px;
+}
+
+/* Styles pour la police Roboto */
+body, .titre-principal, .lien-navigation {
+    font-family: 'Roboto', sans-serif;
+}
+
+/* Styles pour les sections principales */
+.section-principale {
+    padding: 20px;
+    background-color: #f0f0f0;
+}
+
+/* Autres styles CSS personnalisés... */
